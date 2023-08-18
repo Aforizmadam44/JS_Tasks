@@ -18,13 +18,13 @@ else{console.log(`${"Your number " + number3} is single`);}
 let num1= +prompt("Write a number:")
 let num2= +prompt("Write a number:")
 let num3= +prompt("Write a number:")
-if(num1>num2 || num1>num3){
+if(num1>num2 && num1>num3){
     console.log(`${num1} biggest than others`)
 }
-else if(num2>num1 || num2>num3){
+else if(num2>num1 && num2>num3){
     console.log(`${num2} biggest than others`)
 }
-else if(num3>num1 || num3>num2){
+else if(num3>num1 && num3>num2){
     console.log(`${num3} biggest than others`)
 }
 // Math.max method

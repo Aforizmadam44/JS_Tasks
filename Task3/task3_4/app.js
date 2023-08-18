@@ -5,14 +5,15 @@ else if(userName==="guest"){console.log("Welcome to guest")}
 else{console.log("The position is not defined")}
 // ---------------------------------------------------------
 let number= +prompt("Write a number:")
-if(number%3===0){console.log("Fizz")}
+if(number%15===0){console.log("FizzBuzz")}
+else if(number%3===0){console.log("Fizz")}
 else if(number%5===0){console.log("Buzz")}
-else if(number%5===0 && number%3===0){console.log("FizzBuzz")}
 // ---------------------------------------------------------
 let numb=+prompt("Write a number")
 if( numb<=99 && numb>9 ){
     console.log("Your number is dual")
 }
+
 // -------------------------------------------------------------
 let userNumber= +prompt("Write a number:")
 if(userNumber%2===0 && userNumber%5===0){console.log("This is what i like");}
