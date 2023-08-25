@@ -1,3 +1,4 @@
+// A: excellent ✨
 let direction= prompt("Write direction to:(up,downn,right,left)")
 switch(direction){
     case "up":
