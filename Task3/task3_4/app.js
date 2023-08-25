@@ -1,3 +1,4 @@
+// A: u r best, milord 👑
 let userName=prompt("Write your position")
 if(userName==="user"){console.log("Welcome to user")}
 else if(userName==="admin"){console.log("Welcome to admin")}

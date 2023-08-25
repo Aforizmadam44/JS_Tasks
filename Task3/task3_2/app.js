@@ -1,3 +1,4 @@
+// A: excellent ✨
 let selectedMusic = prompt(`Write your loved music :  1. Thurisaz- Endless
 2.Dang Show- Khata kardam
 3.Sagopa Kajmer- Onca şeyin ardından

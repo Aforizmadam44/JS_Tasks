@@ -1,3 +1,5 @@
+// A: done as 🐉
+
 let number1=prompt("Write a number:")
 console.log(number**(1/2))
 // ---------------------------------

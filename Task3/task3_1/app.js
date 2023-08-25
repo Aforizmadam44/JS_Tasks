@@ -1,3 +1,5 @@
+// A: done as 🐉
+
 let userName= prompt("Write your name: ")
 let userLastname= prompt("Write your Lastname: ")
 let userId= userName + userLastname
