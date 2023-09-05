@@ -24,7 +24,7 @@ calculator.read()
 calculator.sum()
 // ---------------------------------------------------------
 function Car(model, history, owner){
-this.model= model,
+this.model=model,
 this.history= history,
 this.owner=owner,
 this.gazVer=()=>{
@@ -32,5 +32,5 @@ console.log(`${this.owner}  ${this.history} ilindeki ${this.model}ya qaz verir.`
 }
 }
 const carr= new Car("zapi", 1969, "ismail")
-carr.gazVer()
+Car.gazVer()
 // ----------------------------------------------------------
