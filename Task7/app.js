@@ -1,7 +1,10 @@
 // repeatedSymbolCounter('ALIONALI', 'A') // return 2 -> must be done with for loop!!!!
-let nickName = 'ALIONALI';
+function repeatedSymbolCounter(nickName, firstletter){
+    let result= nickName.charAt(0).repeat(2)
+    return result
+}
+console.log(repeatedSymbolCounter('ALIONALI', 'A'));
 
-console.log(nickName[0].repeat(2));
 // ------------------------------------------------------------------------------------
 // capitalize(str) -> alion -=> Alion
 
