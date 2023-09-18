@@ -1,4 +1,4 @@
-
+// A: u r best, milord 👑
 function add(eded1, eded2, callback){
    callback(eded1+eded2)
     }
