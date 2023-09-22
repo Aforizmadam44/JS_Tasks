@@ -1,3 +1,4 @@
+// A: u r best, milord 👑
 // 1. Massiv yaradin.  olcusunu 5e menimsedin ve prompt-la massivi number-lerle doldurun.
 
 // let array = [];

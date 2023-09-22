@@ -1,3 +1,4 @@
+// A: u r best, milord 👑
 function logGreeting(name){
     console.log(`${name} is a Js developer` );
 } 

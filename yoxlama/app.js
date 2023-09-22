@@ -1,3 +1,4 @@
+// A: u r best, milord 👑
 // function repeatedSymbolCounter(name, firstletter){
 //     let result= name.split("").
 //     console.log(result);                                        ?

@@ -1,4 +1,4 @@
-
+// A: u r best, milord 👑
 function myFunction(number){
     if(number%2===0){
         console.log("Eded cutdur");
@@ -10,6 +10,7 @@ function myFunction(number){
 }
 myFunction(3)
 // ------------------------------------------
+// A: return yazmamisan :)
 function myNumber(number1, number2, number3){
 Math.max(number1, number2, number3)
 }
@@ -44,6 +45,7 @@ console.log(calc(2, 3, "-"));
 console.log(calc(2, 3, "*"));
 console.log(calc(2, 3, "/"));
 // ------------------------------------------------------------------------------------------------
+// A: ededleri ayri-ayri vermeyeceyik
 function isLucky (number1, number2, number3, number4, number5, number6){
     if(number1+number2+number3===number4+number5+number6){
         return true 

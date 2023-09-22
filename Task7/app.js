@@ -1,3 +1,4 @@
+// A: live legend 🐱‍💻
 // repeatedSymbolCounter('ALIONALI', 'A') // return 2 -> must be done with for loop!!!!
 
 let a = "ALIONALI";
