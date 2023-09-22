@@ -243,7 +243,7 @@ console.log(newZipeArray);
 // -----------------------------------------------------------------------
 // Task2. Get all users whose email ends with '.net'.
 
-let email = arr.find((element) => element.email.endsWith(".net"));
+let email = arr.filter((element) => element.email.endsWith(".net"));
 console.log(email);
 // -----------------------------------------------------------------------
 // Task3. Get an array of objects containing only the name and email of
@@ -345,5 +345,5 @@ console.log(mapId);
 let lengthUsername = arr.map((element) => element.username.length);
 let count3 = 0;
 let countFind2 = lengthUsername.forEach((element) => (count3 += element));
-console.log(count3);
+
 // -----------------------------------------------------------------------
